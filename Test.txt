@@ -1,4 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Test for GITHUB MINI COURSE>
+<title>Test for GITHUB MINI COURSE
+<h2>
